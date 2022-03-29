@@ -1,0 +1,52 @@
+#num label {
+	color:#000;
+	clear:left;
+	margin-top: 25px;
+}
+
+.auto {
+	border:1px solid #999;
+	background-color:#fff;
+	color:#B8B8B8;
+	padding:5px;
+	font-size:20px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border-color: #000000;
+	text-align: center;
+}
+
+.strip {
+	border:1px solid #999;
+	background-color:#fff;
+	color:#00F;
+	padding:5px;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border-color: #00F;
+	margin-bottom:0;
+	float:left;
+	text-align: right;
+}
+
+.decimal {
+	border:1px solid #999;
+	background-color:#fff;
+	color:#000;
+	padding:5px;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border-color: #000000;
+	margin-bottom:0;
+	float:left;
+	text-align: right;
+}
+
+.title {
+	color:#00F;
+	font-size:26px;
+}
+
+.red {
+	color:#F00;
+}
+
